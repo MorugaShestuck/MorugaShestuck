@@ -1,11 +1,11 @@
 # Navigation:
 
-- [Langauges]()
-- [Frameworks]()
-- [Hostings/SaaS]()
-- [Databases]()
-- [Utilities]()
-- [IDEs]()
+- [Langauges](#languages)
+- [Frameworks](#frameworks)
+- [Hostings/SaaS](#hostings--saas)
+- [Databases](#databases)
+- [Utilities](#utilities)
+- [IDEs](#ides)
 - [ML/DL]()
 - [CI/CD]()
 - [Design]()
