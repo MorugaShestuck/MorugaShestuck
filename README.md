@@ -1,4 +1,4 @@
-# Alexander's GitHub Profile
+
 
 [![Codewars](https://www.codewars.com/users/MorugaShestak/badges/micro
 )](https://www.codewars.com/users/MorugaShestak) <--- *click*
