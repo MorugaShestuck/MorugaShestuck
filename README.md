@@ -4,7 +4,7 @@
 )](https://www.codewars.com/users/MorugaShestak) <--- *click*
 
 
-Hello there! 👋 I'm Alexander, a 19-year-old AIO (All-In-One) developer from Russia ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png) with a passion for Fullstack development and a diverse range of interests. I enjoy exploring various domains, including Machine Learning, Artificial Intelligence, Mobile Development, Desktop Development, Game Development, IoT, Algorithm Development, Code Golfing, Microservices, System Programming, and Competitive Programming.
+Hello there! 👋 I'm Alexander, a 19-year-old AIO (All-In-One) developer from Russia ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png) with a passion for Fullstack development and a diverse range of interests. I enjoy exploring various domains, including ML, AI, Mobile Development, Desktop Development, Game Development, IoT, Algorithm Development, Code Golfing, Microservices, System Programming, and Competitive Programming.
 
 ## Programming Languages
 
@@ -54,7 +54,7 @@ Here are the frameworks and tools I'm proficient with, grouped into several cate
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### Machine Learning and AI
+### ML and AI
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -63,7 +63,7 @@ Here are the frameworks and tools I'm proficient with, grouped into several cate
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### IoT (Internet of Things) and Hardware
+### IoT and Hardware
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
