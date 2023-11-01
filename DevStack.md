@@ -13,7 +13,7 @@
 - [Something else]()
 
 ### Languages:
-C; C++; C#; Python; PhP; GoLand; JS; TS; Java; Ruby; Fortran; Pascal; Lua; Kotlin; GML; GLSL; HTML; CSS; Blade; Blazor;
+C; C++; C#; Python; PhP; GoLang; JS; TS; Java; Ruby; Fortran; Pascal; Lua; Kotlin; GML; GLSL; HTML; CSS; Blade; Blazor;
 
 ### Frameworks:
 Laravel; Yii2; Django; DjangoREST; Flask; FastAPI; React; React Native; React Hook Form; React Router; React Query; Redux; Next; Fastify; Selenium; TG/Discord/VK API libs for JS & Python; Express; Electron; dotNET; Bootstrap; Tailwind; Chart.js; jQuery; JWT; Less; MUI; P5js; Qt; Rails; SASS; Socket.io; SolidJS; Spring; Strapi; Storybook; Three.js; Svelte; Stylus; Vite; Web3.js; WordPress; Xamarin;
